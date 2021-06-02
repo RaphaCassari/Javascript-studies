@@ -1,2 +1,2 @@
 For edit page:
-document.designMode = 'on'
+document.designMode = 'on' (in concole)
